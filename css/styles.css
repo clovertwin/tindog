@@ -163,7 +163,7 @@ color: #ff4c68;
 /* Media Query */
 
 @media (max-width: 991px) {
-  #title {
+  #title .container-fluid {
     text-align: center;
   }
   .title-img {
